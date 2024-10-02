@@ -64,7 +64,7 @@ Guide Mate is an innovative travel app designed to simplify trip planning by emb
 
    Explore locations with stunning 3D virtual tours and get real-time advice from the AI on what to wear or pack based on current weather conditions of place.
 
-   ![3D Virtual Tour](Media/OnlineGuide.mp4)
+   ![3D Virtual Tour](https://github.com/MN-Noor/AI-GuideMate/blob/main/Media/OnlineGuide.mp4)
    
 
 5. **Manage Your Profile**
