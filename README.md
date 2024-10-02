@@ -63,21 +63,20 @@ Guide Mate is an innovative travel app designed to simplify trip planning by emb
 4. **Take a 3D virtual tour of your destination with real-time weather updates and personalized advice**
 
    Explore locations with stunning 3D virtual tours and get real-time advice from the AI on what to wear or pack based on current weather conditions of place.
-
-   ![3D Virtual Tour](https://github.com/MN-Noor/AI-GuideMate/blob/main/Media/OnlineGuide.mp4)
    
-
-5. **Manage Your Profile**
+   https://github.com/user-attachments/assets/7d6aaef1-0565-43b4-b8a0-d5042f98b1cc
+   
+6. **Manage Your Profile**
 
    Whether you're a traveler, guide, or agency, you can manage your profile by updating preferences, uploading images, and managing bookings.
    ![Profile Completition](Media/profile.jpg)
 
-6. **Guides can manage their availability through the timeline feature and update booking status**
+7. **Guides can manage their availability through the timeline feature and update booking status**
 
    Guides can update their availability and accept or reject bookings, making it easy to manage their schedule.
     ![Profile Management](Media/edit%20Profile.jpg)
 
-7. **Travel agencies can create new trips, adding details like destinations, itineraries, dates, and promotional content**
+8. **Travel agencies can create new trips, adding details like destinations, itineraries, dates, and promotional content**
 
    Travel agencies can upload and manage their trips, complete with detailed itineraries, pricing, and stunning images to promote the trips.
 
