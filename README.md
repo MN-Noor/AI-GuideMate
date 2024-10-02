@@ -1,6 +1,8 @@
 # Guide Mate
 
 **Your smart travel companion for seamless trip planning, 3D virtual tours, and real-time AI guidance.**
+- [Documentation](https://drive.google.com/file/d/12rK0w3wSFz6KEGoWCwLSeyO6rKHnnAB9/view?usp=sharing)
+- [Business Pitch](https://drive.google.com/file/d/11LCD6WcZBgLsm4OA6NrFrMFZ0gFPJE84/view?usp=sharing)
 
 ## Table of Contents
 - [Introduction](#introduction)
