@@ -90,5 +90,5 @@ Guide Mate is an innovative travel app designed to simplify trip planning by emb
 
 For inquiries, please reach out to us at:
 
-- **Email**: [aymennoor552@gmail.com](mailto:aymennoor552@gmail.com)
+- **Email**: [khaym2002@gmail.com](mailto:khaym2002@gmail.com)
 - **GitHub**: [github.com/MN-Noor/AI-GuideMate](https://github.com/MN-Noor/AI-GuideMate)
